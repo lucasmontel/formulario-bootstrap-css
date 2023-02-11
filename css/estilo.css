@@ -1,0 +1,22 @@
+body{ /*Vamos criar um afastamento do "Contato"*/
+padding-top: 3.75rem;
+background: #FFF159;
+}
+
+.card{
+    box-shadow: 2px 3px 8px 4px rgba(100,100,100, 0.3);
+}
+
+iframe{
+    width: 100%;
+    height: 420px;
+}
+
+textarea.form-control{
+height: 186px;
+resize: none;
+}
+
+form,.alert{
+    margin-bottom: 0;
+}
